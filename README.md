@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 🌱 &nbsp;I’m currently learning Flutter, React, Go
 - 📫 &nbsp;How to reach me: [@voonfusing](https://twitter.com/voonfusing) or [@linkedin](https://www.linkedin.com/in/voonfusing/)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and am a Liverpool fan
 
