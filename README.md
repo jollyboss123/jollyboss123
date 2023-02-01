@@ -22,6 +22,6 @@ This is the place where I try out stuff and break things :rofl:
 
 <!-- 📊 &nbsp;**Stats**
 <p align="left"> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jollyboss123&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jollyboss123&count_private=true&v=2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jollyboss123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
