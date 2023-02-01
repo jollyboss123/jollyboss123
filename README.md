@@ -19,4 +19,5 @@ This is the place where I opensource stuff and break things :rofl:
 
 <!-- 📊 &nbsp;**Stats**
 <p align="left"> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jollyboss123)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jollyboss123)](https://github.com/anuraghazra/github-readme-stats)
