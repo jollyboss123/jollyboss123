@@ -11,10 +11,10 @@ This is the place where I try out stuff and break things :rofl:
 <a href="https://twitter.com/voonfusing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="voonfusing" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/voonfusing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voonfusing" height="30" width="40" /></a>
 
-<!-- 📊 &nbsp;**This week I spent my time on** -->
+📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
-<!-- [![jollyboss's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jollyboss123)](https://github.com/anuraghazra/github-readme-stats) -->
+[![jollyboss's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jollyboss123)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 <br>
 
