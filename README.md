@@ -18,4 +18,5 @@ This is the place where I opensource stuff and break things :rofl:
 <!--END_SECTION:waka-->
 
 📊 &nbsp;**Stats**
+<p align="left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jollyboss123)](https://github.com/anuraghazra/github-readme-stats)
