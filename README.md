@@ -14,7 +14,7 @@ This is the place where I try out stuff and break things :rofl:
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2041%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
