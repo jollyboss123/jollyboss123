@@ -16,8 +16,6 @@ This is the place where I try out stuff and break things :rofl:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2041%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
 ```text
 💬 Programming Languages: 
 Java                     1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   34.99% 
