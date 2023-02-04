@@ -14,7 +14,7 @@ This is the place where I try out stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/voonfusing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voonfusing" height="30" width="40" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2043%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
