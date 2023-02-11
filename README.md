@@ -14,17 +14,17 @@ This is the place where I try out stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/voonfusing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voonfusing" height="30" width="40" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2022%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     23 hrs 47 mins      ████████████████░░░░░░░░░   66.33 % 
-Vue.js                   3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-YAML                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Properties               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-XML                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Java                     21 hrs 58 mins      ███████████████░░░░░░░░░░   61.61 % 
+Vue.js                   3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+YAML                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+SQL                      2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Properties               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 ```
 
