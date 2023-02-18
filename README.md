@@ -14,17 +14,17 @@ This is the place where I try out stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/voonfusing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voonfusing" height="30" width="40" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%206%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     10 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.99 % 
-Vue.js                   5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-SQL                      3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-XML                      2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-TypeScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Java                     11 hrs 23 mins      █████████████░░░░░░░░░░░░   52.43 % 
+Vue.js                   4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.57 % 
+XML                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+SQL                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+TypeScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 ```
 
