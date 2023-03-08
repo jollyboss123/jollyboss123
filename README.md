@@ -14,17 +14,17 @@ This is the place where I try out stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/voonfusing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voonfusing" height="30" width="40" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     14 hrs 47 mins      ████████████████░░░░░░░░░   64.81 % 
-YAML                     2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-JSON                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-XML                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Java                     10 hrs 56 mins      ██████████████░░░░░░░░░░░   56.66 % 
+YAML                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+JSON                     2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Vue.js                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 
 
