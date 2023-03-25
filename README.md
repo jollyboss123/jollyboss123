@@ -4,7 +4,7 @@ This is the place where I try out stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, React, Go
 - 🔖 &nbsp;I'm currently reading Desigining data-intensive applications by Martin Kleppmann
-- 🐣 &nbsp;Proficient in Java, Kotlin
+- 🐣 &nbsp;Proficient in Java, Kotlin, Swift, Vue
 - 📫 &nbsp;How to reach me: [@voonfusing](https://twitter.com/voonfusing) or [@linkedin](https://www.linkedin.com/in/voonfusing/)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and am a Liverpool fan
 
