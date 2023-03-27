@@ -14,17 +14,17 @@ This is the place where I try out stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/voonfusing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voonfusing" height="30" width="40" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2032%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     6 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
-Vue.js                   6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.99 % 
-HTML                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Kotlin                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-XML                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Vue.js                   6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Java                     6 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+TypeScript               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Kotlin                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 
