@@ -14,17 +14,17 @@ This is the place where I try out stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/voonfusing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voonfusing" height="30" width="40" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.10 % 
-Java                     4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Vue.js                   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-textmate                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-XML                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+TypeScript               7 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+Java                     4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Vue.js                   2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+textmate                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+XML                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 ```
 
 
