@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-This is the place where I try out stuff and break things :rofl:
+This is the place where I try out stuff and break things 
 
 - 🌱 &nbsp;I’m currently learning Typescript, Go
 - 🐣 &nbsp;Proficient in Java, Kotlin, Swift, Vue Framework, Spring Boot Framework
